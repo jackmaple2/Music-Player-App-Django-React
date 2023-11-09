@@ -9,7 +9,7 @@ export default class App extends Component {
     render() {
         return (
             <div>
-                <h1>Testing react code</h1>
+                <h1>Test website</h1>
             </div>
         )
     } 
